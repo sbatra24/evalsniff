@@ -1,0 +1,20 @@
+{
+  "control": {
+    "acc_benchmark": 0.9567901234567902,
+    "acc_benchmark_carry": 0.9871794871794872,
+    "acc_benchmark_nocarry": 0.9285714285714286,
+    "n_per_style": 486,
+    "acc_user": 0.9629629629629629,
+    "acc_user_carry": 0.9700854700854701,
+    "acc_user_nocarry": 0.9563492063492064
+  },
+  "planted": {
+    "acc_benchmark": 0.9238683127572016,
+    "acc_benchmark_carry": 0.9401709401709402,
+    "acc_benchmark_nocarry": 0.9087301587301587,
+    "n_per_style": 486,
+    "acc_user": 0.5185185185185185,
+    "acc_user_carry": 0.0,
+    "acc_user_nocarry": 1.0
+  }
+}
